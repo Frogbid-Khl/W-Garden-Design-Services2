@@ -1,0 +1,50 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 23 Sep 2023 13:39:31 at http://world5.commonsupport.com/html/gardener/# +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://world5.commonsupport.com/html/gardener/# -O1 "C:\My Web Sites\garden2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:42:54	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/images/fav-icon/apple-icon-152x152.png (from world5.commonsupport.com/html/gardener/)
+13:50:36	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/css/fonts/glyphicons-halflings-regular.eot (from world5.commonsupport.com/html/gardener/css/bootstrap/bootstrap.css)
+13:50:36	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/css/fonts/glyphicons-halflings-regular.eot? (from world5.commonsupport.com/html/gardener/css/bootstrap/bootstrap.css)
+13:50:36	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/css/fonts/glyphicons-halflings-regular.woff2 (from world5.commonsupport.com/html/gardener/css/bootstrap/bootstrap.css)
+13:50:36	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/css/fonts/glyphicons-halflings-regular.woff (from world5.commonsupport.com/html/gardener/css/bootstrap/bootstrap.css)
+13:50:36	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/css/fonts/glyphicons-halflings-regular.ttf (from world5.commonsupport.com/html/gardener/css/bootstrap/bootstrap.css)
+13:50:36	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/css/fonts/glyphicons-halflings-regular.svg (from world5.commonsupport.com/html/gardener/css/bootstrap/bootstrap.css)
+13:50:36	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/css/revolution/openhand.cur (from world5.commonsupport.com/html/gardener/css/revolution/settings.css)
+13:50:36	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/css/revolution/closedhand.cur (from world5.commonsupport.com/html/gardener/css/revolution/settings.css)
+13:50:36	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/css/assets/gridtile.png (from world5.commonsupport.com/html/gardener/css/revolution/settings.css)
+13:50:36	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/css/assets/gridtile_white.png (from world5.commonsupport.com/html/gardener/css/revolution/settings.css)
+13:50:36	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/css/assets/gridtile_3x3.png (from world5.commonsupport.com/html/gardener/css/revolution/settings.css)
+13:50:36	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/css/assets/gridtile_3x3_white.png (from world5.commonsupport.com/html/gardener/css/revolution/settings.css)
+13:50:36	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/css/assets/coloredbg.png (from world5.commonsupport.com/html/gardener/css/revolution/settings.css)
+13:50:36	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/css/assets/loader.gif (from world5.commonsupport.com/html/gardener/css/revolution/settings.css)
+13:50:36	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/css/grabbing.png (from world5.commonsupport.com/html/gardener/css/owl.carousel.css)
+13:50:36	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/css/AjaxLoader.gif (from world5.commonsupport.com/html/gardener/css/owl.theme.css)
+13:50:36	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/css/fancy-box/fancybox_loading.gif (from world5.commonsupport.com/html/gardener/css/fancy-box/jquery.fancybox.css)
+13:50:36	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/css/fancy-box/blank.gif (from world5.commonsupport.com/html/gardener/css/fancy-box/jquery.fancybox.css)
+13:50:36	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/css/fancy-box/fancybox_overlay.png (from world5.commonsupport.com/html/gardener/css/fancy-box/jquery.fancybox.css)
+13:50:36	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/css/fancy-box/fancybox_sprite@2x.png (from world5.commonsupport.com/html/gardener/css/fancy-box/jquery.fancybox.css)
+13:50:36	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/css/fancy-box/fancybox_loading@2x.gif (from world5.commonsupport.com/html/gardener/css/fancy-box/jquery.fancybox.css)
+13:50:36	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/css/jquery-css/images/ui-icons_ffffff_256x240.png (from world5.commonsupport.com/html/gardener/css/jquery-css/jquery-ui.css)
+13:50:36	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/css/jquery-css/images/ui-icons_777620_256x240.png (from world5.commonsupport.com/html/gardener/css/jquery-css/jquery-ui.css)
+13:50:36	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/css/jquery-css/images/ui-icons_cc0000_256x240.png (from world5.commonsupport.com/html/gardener/css/jquery-css/jquery-ui.css)
+13:50:36	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/index-html (from world5.commonsupport.com/html/gardener/price.html)
+13:50:41	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/img/jquery-ui/ui-bg_flat_75_ffffff_40x100.png (from world5.commonsupport.com/html/gardener/css/jquery-ui.min.css)
+13:50:41	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/img/jquery-ui/ui-bg_highlight-soft_75_cccccc_1x100.png (from world5.commonsupport.com/html/gardener/css/jquery-ui.min.css)
+13:50:41	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/img/jquery-ui/ui-bg_glass_75_e6e6e6_1x400.png (from world5.commonsupport.com/html/gardener/css/jquery-ui.min.css)
+13:50:41	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/img/jquery-ui/ui-bg_glass_75_dadada_1x400.png (from world5.commonsupport.com/html/gardener/css/jquery-ui.min.css)
+13:50:41	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/img/jquery-ui/ui-bg_glass_65_ffffff_1x400.png (from world5.commonsupport.com/html/gardener/css/jquery-ui.min.css)
+13:50:41	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/img/jquery-ui/ui-bg_glass_55_fbf9ee_1x400.png (from world5.commonsupport.com/html/gardener/css/jquery-ui.min.css)
+13:50:41	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/img/jquery-ui/ui-bg_glass_95_fef1ec_1x400.png (from world5.commonsupport.com/html/gardener/css/jquery-ui.min.css)
+13:50:41	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/img/jquery-ui/ui-icons_222222_256x240.png (from world5.commonsupport.com/html/gardener/css/jquery-ui.min.css)
+13:50:41	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/img/jquery-ui/ui-icons_888888_256x240.png (from world5.commonsupport.com/html/gardener/css/jquery-ui.min.css)
+13:50:41	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/img/jquery-ui/ui-icons_454545_256x240.png (from world5.commonsupport.com/html/gardener/css/jquery-ui.min.css)
+13:50:41	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/img/jquery-ui/ui-icons_2e83ff_256x240.png (from world5.commonsupport.com/html/gardener/css/jquery-ui.min.css)
+13:50:41	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/img/jquery-ui/ui-icons_cd0a0a_256x240.png (from world5.commonsupport.com/html/gardener/css/jquery-ui.min.css)
+13:50:41	Error: 	"Not Found" (404) at link world5.commonsupport.com/html/gardener/img/jquery-ui/ui-bg_flat_0_aaaaaa_40x100.png (from world5.commonsupport.com/html/gardener/css/jquery-ui.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 10 seconds : 281 links scanned, 241 files written (18725820 bytes overall) [16271997 bytes received at 24286 bytes/sec], 3747465 bytes transferred using HTTP compression in 69 files, ratio 30%, 2.2 requests per connection
+(39 errors, 0 warnings, 0 messages)
